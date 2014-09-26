@@ -6,5 +6,12 @@
 			"title" : "WBA1 Kickoff",
 			"authors" : ["Stephan Pavlovic", "Jan Kus", "Volker Schäfer"]
 		}
+	},
+	{
+		"2014-10-02-git/index.html":
+		{
+			"title" : "Git Einführung",
+			"authors" : ["Stephan Pavlovic", "Jan Kus"]
+		}
 	}
 }
