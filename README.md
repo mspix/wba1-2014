@@ -10,9 +10,9 @@ Lernmaterialien, Ansprechpartner etc. zum Modul "Web-basierte Anwendungen 1": WW
 
 
 **Coaches**
-[M.Sc. Stephan Pavlovic](http://www.railslove.com/stephan), [Railslove GmbH](http://railslove.com)
-[M.Sc. Jan Kus](https://github.com/koos), [Railslove GmbH](http://railslove.com)
-[B.Sc. Volker Schaefer](https://github.com/vschaefer), FH-Köln
-[Christian Poplawski](https://github.com/Plsr), FH-Köln
+[M.Sc. Stephan Pavlovic](http://www.railslove.com/stephan), [Railslove GmbH](http://railslove.com)<br>
+[M.Sc. Jan Kus](https://github.com/koos), [Railslove GmbH](http://railslove.com)<br>
+[B.Sc. Volker Schaefer](https://github.com/vschaefer), FH-Köln<br>
+[Christian Poplawski](https://github.com/Plsr), FH-Köln<br>
 
 
