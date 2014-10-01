@@ -30,6 +30,54 @@
 		<!--[if lt IE 9]>
 		<script src="../revealjs-framework/lib/js/html5shiv.js"></script>
 		<![endif]-->
+    <style type="text/css">
+     .fullscreenImage .reveal .slides {
+        height: 100% !important;
+        left: 0;
+        margin: 0 auto;
+        padding: 0;
+        top: 0;
+        width: 100% !important;
+    }
+
+    .fullscreenImage .reveal .slides > section {
+        background-position-x: center;
+        background-position-y: 10px;
+        background-repeat: no-repeat;
+        background-size: auto 90%;
+        height: 100%;
+        left: 0;
+        margin: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+
+
+    .fullscreenImage .reveal .slides > section .bu{
+        background-color: rgba(221, 17,102, 0.8);
+        top: 100px;
+        display: inline-block;
+        color: white;
+        padding: 0 10px 0 100px;
+        position:absolute;
+
+    }
+
+    .fullscreenImage .reveal .slides > section .quelle{
+        bottom: 10px;
+        color: white;
+        display: inline-block;
+        font-size: 14px;
+        margin: 0 0 0 10px;
+        position:absolute;
+
+    }
+
+    .fullscreenImage .reveal .slides > section p{
+        margin: 0;
+    }
+  </style>
 	</head>
 
 	<body>
@@ -59,19 +107,20 @@
     		</section>
 
         <section>
-          <h2>Christian Poplawski</h2>
-        </section>
-
-        <section>
-          <h2>Volker Schaefer</h2>
-        </section>
-
-        <section>
           <h2>Jan Kus</h2>
+          <ul>
+            <li class="fragment">Master in Medieninformatik an der FH Köln (2010)</li>
+          </ul>
         </section>
 
         <section>
           <h2>Stephan Pavlovic</h2>
+          <ul>
+            <li class="fragment">Master in Medieninformatik an der FH Köln (2011)</li>
+            <li class="fragment">Webentwickler (Konzept & Frontend) bei <strong>Railslove</strong> in Köln</li>
+            <li class="fragment">Dozent an der FH Köln seit 2010</li>
+            <li class="fragment">Spezielles Interesse an: UX, Usability und Semantic Web</li>
+          </ul>
         </section>
 
         <section>
@@ -108,7 +157,8 @@
           </ul>
     		</section>
 
-        <section data-background-image="images/veranstaltungs_aufbau.png" data-background-position="top center"></section>
+        <section class="fullscreenImage" data-state="fullscreenImage" style="background-image: url(images/veranstaltungs_aufbau.png)">
+        </section>
 
     		<section>
     			<h2>Prüfungen <strong>Teil 1</strong></h2>
